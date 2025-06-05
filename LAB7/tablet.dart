@@ -13,4 +13,3 @@ class Tablet extends StatelessWidget {
     );
   }
 }
-
